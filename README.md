@@ -1,0 +1,2 @@
+# mojrepozitorij
+ucenje
